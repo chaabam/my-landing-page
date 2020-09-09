@@ -1,0 +1,17 @@
+.footer {
+	background-color: #00487c;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	height: 50px;
+	margin: 0px;
+	padding: 5px;
+}
+
+.footer p,a {
+	color:white;
+}
+
+.footer a {
+	text-decoration: none;
+}

@@ -1,0 +1,46 @@
+
+.header {
+	background-color: white;
+	height: 50px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border-bottom: 1px solid #00487c;
+	position: sticky;
+	top:0;
+}
+
+.logo {
+	background-image: url(../../images/logo-Club-Med.jpg);
+	width: 80px;
+	height: 50px;
+	margin: 5px;
+	background-position: center;
+	background-size: cover;
+}
+
+
+.header a {
+	text-decoration: none;
+	color:#044389;
+}
+
+a:hover {
+	color: black;
+	font-size: 120%;
+}
+
+
+.btn {
+	background-color: #f8f9fa;
+	border : 0.5px solid #ced4da;
+	height: 10px;
+	margin: 10px;
+	padding: 10px 10px;
+	border-radius: 4px;
+}
+
+.search {
+	margin: 10px;
+}
+

@@ -1,0 +1,58 @@
+.desti-card {
+	display: flex;
+	width: 800px;
+	margin: 30px;
+	font-weight: bold;
+}
+
+#italie {
+	background-image: url(../../images/italie.jpg);
+	width: 200px;
+	height: 250px;
+	background-position: center;
+	background-size: cover;
+	margin: 15px;
+	box-shadow: 1px 1px 12px #555;
+	border-radius: 4px;
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+
+}
+
+#alpes {
+	background-image: url(../../images/alpes.jpg);
+	width: 200px;
+	height: 250px;
+	background-position: center;
+	background-size: cover;
+	margin: 15px;
+	box-shadow: 1px 1px 12px #555;
+	border-radius: 4px;
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+
+}
+
+#caraibes{
+	background-image: url(../../images/caraibes.jpg);
+	width: 200px;
+	height: 250px;
+	background-position: center;
+	background-size: cover;
+	margin: 15px;
+	align-items: baseline;
+	box-shadow: 1px 1px 12px #555;
+	border-radius: 4px;
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+
+}
+
+.desti-card p {
+	text-align: center;
+
+	color: white;
+}

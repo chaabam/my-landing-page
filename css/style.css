@@ -1,0 +1,11 @@
+@import url('components/header.css');
+@import url('components/banner.css');
+@import url('components/discover.css');
+@import url('components/container.css');
+@import url('components/footer.css');
+@import url('components/destination.css');
+
+html, body, h1 {
+ margin:0;
+ padding:0;
+ }

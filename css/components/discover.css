@@ -1,0 +1,44 @@
+.discover {
+	margin: 5px;
+}
+
+
+.discover-card {
+display: flex;
+margin: 20px;
+justify-content: space-around;
+align-items: center;
+}
+
+
+.discover p {
+color: #044389;
+margin: 0;
+padding: 0;
+}
+
+#all-inclusive {
+	background-image: url(../../images/all-inclusive.jpg);
+	width: 2200px;
+	height: 400px;
+	background-position: center;
+	background-size: cover;
+	margin: 15px;
+	box-shadow: 1px 1px 12px #555;
+	border-radius: 4px;
+}
+
+#all-inclusive-text {
+	text-align: left;
+}
+
+#family {
+	background-image: url(../../images/family.jpg);
+	width: 2200px;
+	height: 400px;
+	background-position: center;
+	background-size: cover;
+	margin: 15px;
+	box-shadow: 1px 1px 12px #555;
+	border-radius: 4px;
+}
